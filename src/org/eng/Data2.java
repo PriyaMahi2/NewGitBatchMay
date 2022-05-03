@@ -54,7 +54,11 @@ public class Data2 {
 			System.out.println("Employee no:"+(i+1));
 			System.out.println("name:"+l.get(i).getName());
 			System.out.println("Age:"+l.get(i).getAge());
-			System.out.println("Phno:"+l.get(i).getPhno());}}}
+			System.out.println("Phno:"+l.get(i).getPhno());}
+		
+	   System.out.println("Modified the encaptulation");
+	
+	}}
 				
 			
 			
