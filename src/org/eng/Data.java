@@ -19,9 +19,7 @@ public class Data {
 	public long getPhno() {
 		return phno;
 	}
-	public void setPhno(long phno) {
-		this.phno = phno;
-	}
+	
 	
 	
 
