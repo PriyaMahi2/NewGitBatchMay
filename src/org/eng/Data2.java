@@ -14,15 +14,15 @@ public class Data2 {
 		Data d = new Data();
 		d.setName("priya");
 		d.setAge(32);
-		d.setPhno(9840654846l);
+		
 		Data d1=new Data();
 		d1.setName("mahi");
 		d1.setAge(40);
-		d1.setPhno(9094860486l);
+		
 		Data d2 = new Data();
 		d2.setName("linu");
 		d2.setAge(11);
-		d2.setPhno(9840094846l);
+		
 		List<Data> l = new LinkedList<Data>();
 		l.add(d);
 		l.add(d1);
